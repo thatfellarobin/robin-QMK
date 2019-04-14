@@ -12,4 +12,4 @@ This is firmware for my keyboard that uses a DZ60 PCB.
 ![](keyboard-layout_2.png "Robin's keyboard layout")
 
 ## Known issues:
-- Need to test whether transparency works properly on layer 2
+- Need to test whether transparency works properly on layers 1 and 2
