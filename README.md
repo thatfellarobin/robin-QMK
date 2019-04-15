@@ -1,5 +1,5 @@
 # robin-QMK
-This is firmware for my keyboard that uses a DZ60 PCB.
+This is QMK firmware for my keyboard that uses a DZ60 PCB.
 
 ## Layout Image
 ### Layer 0 (Default)
